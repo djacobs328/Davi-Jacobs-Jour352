@@ -1,0 +1,41 @@
+
+img {
+    width:100% ;
+     max-width: 500px;
+}
+
+
+.btn {
+    background-color:#0a0a23;
+     font-family: "Special Elite", system-ui;
+
+}
+
+
+.bi {
+  font-size:3em;
+}
+
+
+.col-md-4 {
+  text-align: center;
+}
+
+.col-md-6 {
+  text-align: center;
+}
+
+
+.special-elite-regular {
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.nvar-brand {
+    font-family: "Special Elite", system-ui;
+}
+
+.row {
+    padding-bottom: 50px;
+}
