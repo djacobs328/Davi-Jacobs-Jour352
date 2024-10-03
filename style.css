@@ -7,6 +7,7 @@ img {
 .btn  {
     background-color:#0a0a23;
      font-family: "Special Elite", system-ui;
+   
 
 }
 
@@ -43,8 +44,8 @@ img {
 @media only screen and (max-width: 500px) {
     h2 span {
         padding-top:50px;}
-        .btn btn-dark btn-lg px-4 me-md-2 {
-            <background-color: ##008080;}
+        .btn  {
+            background-color: #008080;}
         
         }
     
