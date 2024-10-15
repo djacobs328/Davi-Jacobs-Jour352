@@ -11,17 +11,17 @@
     font-style: italic;
     }
   
-
+/*title of the story*/
     h1{
       font-family: "Noto Serif", serif;
-      font-weight: 700;
-      font-size:45px;
+      font-weight: 800;
+      font-size:38px;
       font-style: normal;
 }
 
 p{
   font-family: Helvetica, arial, sans-serif;
-  font-size: 13px;
+  font-size: 14px;
 }
 
 
