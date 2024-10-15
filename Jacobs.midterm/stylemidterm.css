@@ -1,0 +1,57 @@
+#content {
+    margin: 0 auto;
+    width: 900px; 
+  } 
+
+
+
+  #byline {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    }
+  
+
+    h1{
+      font-family: "Noto Serif", serif;
+      font-weight: 700;
+      font-size:45px;
+      font-style: normal;
+}
+
+p{
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 13px;
+}
+
+
+blockquote {
+  font: 16px/24px normal helvetica, sans-serif;
+  font-style: italic;
+  font-size: 30px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: blue;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 4px solid #ccc;
+  
+}
+
+
+
+#headline2{
+    font-family: Helvetica, sans-serif;
+    font-weight: 700;
+    font-size:30px;
+}
+
+#headline3{
+  font-family: Helvetica, sans-serif;
+  font-weight: 700;
+  font-size:30px;
+}
+
+figure{
+  font-size: .5em;
+}
