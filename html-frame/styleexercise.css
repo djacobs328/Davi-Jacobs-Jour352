@@ -11,3 +11,28 @@ font-family: 'Montserrat', sans-serif;
     font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
+
+p{
+    font-family: georgia, serif;
+    line-height: 180%
+}
+
+#headline2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size:30px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  .footer {
+    width: 100%;
+    margin: auto 0;
+}
+
+  
