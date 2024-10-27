@@ -111,21 +111,22 @@ a{
 
 /* the media queries below are for different screens-note: I received help on this component from a classmate*/
 
-@media only screen and (max-width: 500px) {
+@media (max-width: 500px) {
 }
 
 
-@media only screen and (min-width: 500px) {
+@media (min-width: 500px) {
 }
 
-@media only screen and (min-width: 700px) {
+@media  (min-width: 700px) {
 }
 
-@media only screen and (min-width: 900px) {
+@media  (min-width: 900px) {
 }
 
 
-@media only screen and (min-width: 1200px) {
+@media  (min-width: 1200px) {
 }
+
 
 
