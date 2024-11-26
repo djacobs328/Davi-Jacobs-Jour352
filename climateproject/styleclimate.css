@@ -54,7 +54,7 @@
       }
 
     /*media queries*/
-      @media(max-width:650px) {
+      @media(max-width:850px) {
         p{
             padding-left:20px;
             padding-right:10px;
@@ -62,8 +62,9 @@
         .hero-hed {
             font-size:1.5em;}
             .overlay {
-                font-size:.2em;}
-    }
+                font-size:.5em;}
+            }
+
       
 
 
@@ -152,7 +153,14 @@ width:100%;
 
 .hero-hed {
     font-family:'Playfair Display', serif;
-    font-size: 20em;
+    font-size: 12em;
+    color:#fff;
+margin: 0 auto;
+}
+
+.hero-small {
+    font-family:'Playfair Display', serif;
+    font-size: 7em;
     color:#fff;
 margin: 0 auto;
 }
